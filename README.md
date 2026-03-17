@@ -98,7 +98,6 @@ While the project was highly successful and demonstrated the strong capabilities
 
 Despite these minor limitations, the project was an exciting exploration of how machine learning and cloud-based AI can analyze and interpret images at scale. It provided valuable insights into real-world applications of computer vision and is highly recommended for anyone interested in AI-driven image processing.
 
-#project #awsservices #amazonrekognition #imagelabelgenerator
 
 ## Future Enhancements
 
